@@ -1,0 +1,9 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore .pkl files
+*.pkl
+
+# Ignore virtual environment directories
+venv/
+.env
